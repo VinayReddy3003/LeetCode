@@ -43,4 +43,12 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VinayReddy3003/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/VinayReddy3003/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/VinayReddy3003/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
