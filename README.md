@@ -7,6 +7,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ Solutions for leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/VinayReddy3003/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
