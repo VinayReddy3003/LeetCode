@@ -1,5 +1,9 @@
 class Solution {
     public int climbStairs(int n) {
+
+        if(n<=1) {
+            return 1;
+        }
         int[] step = new int[n+1];
         step[0]= 1;
         step[1] = 1;
