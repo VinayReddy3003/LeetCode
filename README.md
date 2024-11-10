@@ -10,10 +10,12 @@ Solutions for leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -51,4 +53,8 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/VinayReddy3003/LeetCode/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
