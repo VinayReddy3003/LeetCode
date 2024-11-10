@@ -24,6 +24,7 @@ Solutions for leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/VinayReddy3003/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -57,4 +58,8 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/VinayReddy3003/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
