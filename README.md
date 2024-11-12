@@ -8,6 +8,7 @@ Solutions for leetcode problems
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0136-single-number) |
+| [0228-summary-ranges](https://github.com/VinayReddy3003/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
