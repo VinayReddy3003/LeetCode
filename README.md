@@ -22,6 +22,7 @@ Solutions for leetcode problems
 | [0202-happy-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
 | ------- |
