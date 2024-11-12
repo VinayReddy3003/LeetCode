@@ -21,6 +21,7 @@ Solutions for leetcode problems
 | [0070-climbing-stairs](https://github.com/VinayReddy3003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +90,12 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0101-symmetric-tree) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
