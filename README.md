@@ -10,6 +10,7 @@ Solutions for leetcode problems
 | [0136-single-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/VinayReddy3003/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/VinayReddy3003/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VinayReddy3003/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VinayReddy3003/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
