@@ -27,6 +27,7 @@ Solutions for leetcode problems
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0507-perfect-number) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/VinayReddy3003/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
 | ------- |
