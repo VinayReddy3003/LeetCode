@@ -81,6 +81,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0202-happy-number) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VinayReddy3003/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VinayReddy3003/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 ## Simulation
 |  |
@@ -121,4 +123,8 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/VinayReddy3003/LeetCode/tree/master/2089-maximum-matrix-sum) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VinayReddy3003/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
