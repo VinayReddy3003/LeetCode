@@ -112,6 +112,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/VinayReddy3003/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VinayReddy3003/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [3636-check-balanced-string](https://github.com/VinayReddy3003/LeetCode/tree/master/3636-check-balanced-string) |
