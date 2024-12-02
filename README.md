@@ -11,6 +11,7 @@ Solutions for leetcode problems
 | [0228-summary-ranges](https://github.com/VinayReddy3003/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/VinayReddy3003/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/VinayReddy3003/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2089-maximum-matrix-sum](https://github.com/VinayReddy3003/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VinayReddy3003/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -21,6 +22,7 @@ Solutions for leetcode problems
 | ------- |
 | [0202-happy-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 ## Math
 |  |
@@ -35,6 +37,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VinayReddy3003/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VinayReddy3003/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Bit Manipulation
@@ -47,6 +50,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VinayReddy3003/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Stack
 |  |
@@ -81,6 +85,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0202-happy-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VinayReddy3003/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Divide and Conquer
 |  |
