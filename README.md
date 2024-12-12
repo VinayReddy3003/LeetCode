@@ -19,6 +19,7 @@ Solutions for leetcode problems
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VinayReddy3003/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/VinayReddy3003/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3427-special-array-ii](https://github.com/VinayReddy3003/LeetCode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ Solutions for leetcode problems
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/VinayReddy3003/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/VinayReddy3003/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Matrix
 |  |
 | ------- |
@@ -159,4 +161,8 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/VinayReddy3003/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
