@@ -74,12 +74,14 @@ Solutions for leetcode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/VinayReddy3003/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VinayReddy3003/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -87,6 +89,7 @@ Solutions for leetcode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/VinayReddy3003/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Linked List
 |  |
@@ -125,6 +128,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
 |  |
