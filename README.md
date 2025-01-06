@@ -14,6 +14,7 @@ Solutions for leetcode problems
 | [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VinayReddy3003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/VinayReddy3003/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VinayReddy3003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/VinayReddy3003/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2089-maximum-matrix-sum](https://github.com/VinayReddy3003/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VinayReddy3003/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -141,6 +142,7 @@ Solutions for leetcode problems
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/VinayReddy3003/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VinayReddy3003/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VinayReddy3003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/VinayReddy3003/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -171,6 +173,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VinayReddy3003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3427-special-array-ii](https://github.com/VinayReddy3003/LeetCode/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
