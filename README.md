@@ -12,6 +12,7 @@ Solutions for leetcode problems
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/VinayReddy3003/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/VinayReddy3003/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VinayReddy3003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/VinayReddy3003/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VinayReddy3003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -140,6 +141,7 @@ Solutions for leetcode problems
 | ------- |
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/VinayReddy3003/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1524-string-matching-in-an-array](https://github.com/VinayReddy3003/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VinayReddy3003/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VinayReddy3003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -168,6 +170,7 @@ Solutions for leetcode problems
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/VinayReddy3003/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VinayReddy3003/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Prefix Sum
 |  |
