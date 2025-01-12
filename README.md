@@ -11,6 +11,7 @@ Solutions for leetcode problems
 | [0228-summary-ranges](https://github.com/VinayReddy3003/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/VinayReddy3003/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0952-word-subsets](https://github.com/VinayReddy3003/LeetCode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/VinayReddy3003/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VinayReddy3003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -31,6 +32,7 @@ Solutions for leetcode problems
 | ------- |
 | [0202-happy-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
+| [0952-word-subsets](https://github.com/VinayReddy3003/LeetCode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
@@ -142,6 +144,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
+| [0952-word-subsets](https://github.com/VinayReddy3003/LeetCode/tree/master/0952-word-subsets) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/VinayReddy3003/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/VinayReddy3003/LeetCode/tree/master/1524-string-matching-in-an-array) |
