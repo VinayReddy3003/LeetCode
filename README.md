@@ -75,6 +75,7 @@ Solutions for leetcode problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VinayReddy3003/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VinayReddy3003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VinayReddy3003/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Tree
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Solutions for leetcode problems
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VinayReddy3003/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VinayReddy3003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VinayReddy3003/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VinayReddy3003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
@@ -177,6 +179,7 @@ Solutions for leetcode problems
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/VinayReddy3003/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VinayReddy3003/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## String Matching
 |  |
 | ------- |
