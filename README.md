@@ -22,6 +22,7 @@ Solutions for leetcode problems
 | [2179-most-beautiful-item-for-each-query](https://github.com/VinayReddy3003/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VinayReddy3003/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/VinayReddy3003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/VinayReddy3003/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -152,6 +153,7 @@ Solutions for leetcode problems
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VinayReddy3003/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VinayReddy3003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/VinayReddy3003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/VinayReddy3003/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -180,6 +182,7 @@ Solutions for leetcode problems
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/VinayReddy3003/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VinayReddy3003/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/VinayReddy3003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
