@@ -38,6 +38,7 @@ Solutions for leetcode problems
 | [1502-construct-k-palindrome-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/VinayReddy3003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Solutions for leetcode problems
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/VinayReddy3003/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/VinayReddy3003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3636-check-balanced-string](https://github.com/VinayReddy3003/LeetCode/tree/master/3636-check-balanced-string) |
 ## Simulation
 |  |
@@ -202,6 +204,7 @@ Solutions for leetcode problems
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/VinayReddy3003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
