@@ -25,6 +25,7 @@ Solutions for leetcode problems
 | [2292-counting-words-with-a-given-prefix](https://github.com/VinayReddy3003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/VinayReddy3003/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2792-neighboring-bitwise-xor](https://github.com/VinayReddy3003/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/VinayReddy3003/LeetCode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -66,6 +67,7 @@ Solutions for leetcode problems
 | [0191-number-of-1-bits](https://github.com/VinayReddy3003/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 | [2509-minimize-xor](https://github.com/VinayReddy3003/LeetCode/tree/master/2509-minimize-xor) |
+| [2792-neighboring-bitwise-xor](https://github.com/VinayReddy3003/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
