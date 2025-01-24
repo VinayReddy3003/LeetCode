@@ -12,6 +12,7 @@ Solutions for leetcode problems
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/VinayReddy3003/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0952-word-subsets](https://github.com/VinayReddy3003/LeetCode/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/VinayReddy3003/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VinayReddy3003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -96,6 +97,7 @@ Solutions for leetcode problems
 | [0101-symmetric-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/VinayReddy3003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -145,6 +147,7 @@ Solutions for leetcode problems
 | [0101-symmetric-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/VinayReddy3003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
 |  |
@@ -178,6 +181,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/VinayReddy3003/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2089-maximum-matrix-sum](https://github.com/VinayReddy3003/LeetCode/tree/master/2089-maximum-matrix-sum) |
 ## Greedy
 |  |
@@ -206,6 +210,7 @@ Solutions for leetcode problems
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VinayReddy3003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -230,4 +235,8 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
