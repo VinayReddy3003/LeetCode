@@ -26,6 +26,7 @@ Solutions for leetcode problems
 | [2292-counting-words-with-a-given-prefix](https://github.com/VinayReddy3003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/VinayReddy3003/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/VinayReddy3003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/VinayReddy3003/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/VinayReddy3003/LeetCode/tree/master/3427-special-array-ii) |
@@ -99,6 +100,7 @@ Solutions for leetcode problems
 | [0515-find-largest-value-in-each-tree-row](https://github.com/VinayReddy3003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/VinayReddy3003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Solutions for leetcode problems
 | [0515-find-largest-value-in-each-tree-row](https://github.com/VinayReddy3003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/VinayReddy3003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -183,6 +186,7 @@ Solutions for leetcode problems
 | [0566-reshape-the-matrix](https://github.com/VinayReddy3003/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2089-maximum-matrix-sum](https://github.com/VinayReddy3003/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/VinayReddy3003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -239,4 +243,5 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/VinayReddy3003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
