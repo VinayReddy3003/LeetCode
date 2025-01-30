@@ -98,6 +98,7 @@ Solutions for leetcode problems
 | [0101-symmetric-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/VinayReddy3003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/VinayReddy3003/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VinayReddy3003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -149,6 +150,7 @@ Solutions for leetcode problems
 | [0101-symmetric-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/VinayReddy3003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/VinayReddy3003/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VinayReddy3003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -242,6 +244,11 @@ Solutions for leetcode problems
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/VinayReddy3003/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VinayReddy3003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/VinayReddy3003/LeetCode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
