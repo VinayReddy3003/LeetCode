@@ -30,6 +30,7 @@ Solutions for leetcode problems
 | [2792-neighboring-bitwise-xor](https://github.com/VinayReddy3003/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/VinayReddy3003/LeetCode/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
