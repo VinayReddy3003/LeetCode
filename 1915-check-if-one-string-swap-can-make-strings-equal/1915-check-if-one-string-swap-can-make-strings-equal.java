@@ -8,14 +8,14 @@ class Solution {
              int n = s2.length();
 
 
-              int misMatch = 0; 
+              
               List<Character> misMatches = new ArrayList<Character>();
               int pos = 0;
               while(pos < m) {
                   if(s1.charAt(pos) != s2.charAt(pos)) {
                     misMatches.add(s1.charAt(pos));
                     misMatches.add(s2.charAt(pos));
-                    misMatch++;
+                   
                   }
                   pos++;
               }
