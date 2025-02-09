@@ -24,6 +24,7 @@ Solutions for leetcode problems
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VinayReddy3003/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VinayReddy3003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2448-count-number-of-bad-pairs](https://github.com/VinayReddy3003/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/VinayReddy3003/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VinayReddy3003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -44,6 +45,7 @@ Solutions for leetcode problems
 | [1502-construct-k-palindrome-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/VinayReddy3003/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/VinayReddy3003/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/VinayReddy3003/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/VinayReddy3003/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -56,6 +58,7 @@ Solutions for leetcode problems
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0507-perfect-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/VinayReddy3003/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VinayReddy3003/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
@@ -227,6 +230,7 @@ Solutions for leetcode problems
 | [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/VinayReddy3003/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/VinayReddy3003/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VinayReddy3003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Heap (Priority Queue)
