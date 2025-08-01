@@ -7,6 +7,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VinayReddy3003/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/VinayReddy3003/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/VinayReddy3003/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
@@ -156,6 +157,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VinayReddy3003/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/VinayReddy3003/LeetCode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
