@@ -69,6 +69,7 @@ Solutions for leetcode problems
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VinayReddy3003/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/VinayReddy3003/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3830-find-closest-person](https://github.com/VinayReddy3003/LeetCode/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
