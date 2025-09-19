@@ -47,6 +47,7 @@ Solutions for leetcode problems
 | [0202-happy-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/VinayReddy3003/LeetCode/tree/master/0952-word-subsets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/VinayReddy3003/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/VinayReddy3003/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -182,6 +183,7 @@ Solutions for leetcode problems
 | ------- |
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
 | [0952-word-subsets](https://github.com/VinayReddy3003/LeetCode/tree/master/0952-word-subsets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/VinayReddy3003/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/VinayReddy3003/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VinayReddy3003/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
