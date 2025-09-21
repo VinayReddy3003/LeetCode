@@ -41,6 +41,7 @@ Solutions for leetcode problems
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/VinayReddy3003/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3797-design-spreadsheet](https://github.com/VinayReddy3003/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Solutions for leetcode problems
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/VinayReddy3003/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VinayReddy3003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3797-design-spreadsheet](https://github.com/VinayReddy3003/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VinayReddy3003/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -203,6 +205,7 @@ Solutions for leetcode problems
 | [3455-minimum-length-of-string-after-operations](https://github.com/VinayReddy3003/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3636-check-balanced-string](https://github.com/VinayReddy3003/LeetCode/tree/master/3636-check-balanced-string) |
+| [3797-design-spreadsheet](https://github.com/VinayReddy3003/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VinayReddy3003/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -223,6 +226,7 @@ Solutions for leetcode problems
 | [2089-maximum-matrix-sum](https://github.com/VinayReddy3003/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VinayReddy3003/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/VinayReddy3003/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -296,6 +300,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/VinayReddy3003/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3797-design-spreadsheet](https://github.com/VinayReddy3003/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
