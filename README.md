@@ -73,6 +73,7 @@ Solutions for leetcode problems
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0507-perfect-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/VinayReddy3003/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/VinayReddy3003/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VinayReddy3003/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/VinayReddy3003/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -220,6 +221,7 @@ Solutions for leetcode problems
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/VinayReddy3003/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2288-count-operations-to-obtain-zero](https://github.com/VinayReddy3003/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/VinayReddy3003/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/VinayReddy3003/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/VinayReddy3003/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
