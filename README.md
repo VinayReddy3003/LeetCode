@@ -14,6 +14,7 @@ Solutions for leetcode problems
 | [0566-reshape-the-matrix](https://github.com/VinayReddy3003/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/VinayReddy3003/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0952-word-subsets](https://github.com/VinayReddy3003/LeetCode/tree/master/0952-word-subsets) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/VinayReddy3003/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/VinayReddy3003/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -111,6 +112,7 @@ Solutions for leetcode problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/VinayReddy3003/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VinayReddy3003/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VinayReddy3003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -182,6 +184,7 @@ Solutions for leetcode problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/VinayReddy3003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/VinayReddy3003/LeetCode/tree/master/0118-pascals-triangle) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/VinayReddy3003/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Memoization
 |  |
 | ------- |
@@ -250,6 +253,7 @@ Solutions for leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [1388-greatest-sum-divisible-by-three](https://github.com/VinayReddy3003/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1502-construct-k-palindrome-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/VinayReddy3003/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VinayReddy3003/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
