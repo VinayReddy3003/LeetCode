@@ -14,6 +14,7 @@ Solutions for leetcode problems
 | [0566-reshape-the-matrix](https://github.com/VinayReddy3003/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/VinayReddy3003/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0952-word-subsets](https://github.com/VinayReddy3003/LeetCode/tree/master/0952-word-subsets) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/VinayReddy3003/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/VinayReddy3003/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1396-count-servers-that-communicate](https://github.com/VinayReddy3003/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VinayReddy3003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -105,6 +106,7 @@ Solutions for leetcode problems
 | [0136-single-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/VinayReddy3003/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/VinayReddy3003/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VinayReddy3003/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/VinayReddy3003/LeetCode/tree/master/2509-minimize-xor) |
 | [2792-neighboring-bitwise-xor](https://github.com/VinayReddy3003/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
