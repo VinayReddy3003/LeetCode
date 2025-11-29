@@ -47,6 +47,7 @@ Solutions for leetcode problems
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VinayReddy3003/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/VinayReddy3003/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VinayReddy3003/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VinayReddy3003/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VinayReddy3003/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/VinayReddy3003/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -89,6 +90,7 @@ Solutions for leetcode problems
 | [3279-alice-and-bob-playing-flower-game](https://github.com/VinayReddy3003/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VinayReddy3003/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VinayReddy3003/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VinayReddy3003/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/VinayReddy3003/LeetCode/tree/master/3830-find-closest-person) |
