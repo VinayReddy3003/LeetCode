@@ -225,6 +225,7 @@ Solutions for leetcode problems
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VinayReddy3003/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VinayReddy3003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/VinayReddy3003/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2476-check-distances-between-same-letters](https://github.com/VinayReddy3003/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/VinayReddy3003/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -285,6 +286,7 @@ Solutions for leetcode problems
 ## Sliding Window
 |  |
 | ------- |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/VinayReddy3003/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/VinayReddy3003/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3483-alternating-groups-ii](https://github.com/VinayReddy3003/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Counting
