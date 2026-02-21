@@ -85,6 +85,7 @@ Solutions for leetcode problems
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VinayReddy3003/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/VinayReddy3003/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VinayReddy3003/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/VinayReddy3003/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -112,6 +113,7 @@ Solutions for leetcode problems
 | [0136-single-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/VinayReddy3003/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/VinayReddy3003/LeetCode/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VinayReddy3003/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/VinayReddy3003/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VinayReddy3003/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/VinayReddy3003/LeetCode/tree/master/2509-minimize-xor) |
