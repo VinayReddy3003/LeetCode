@@ -227,6 +227,7 @@ Solutions for leetcode problems
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VinayReddy3003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/VinayReddy3003/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VinayReddy3003/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/VinayReddy3003/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/VinayReddy3003/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VinayReddy3003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -249,6 +250,7 @@ Solutions for leetcode problems
 | [0415-add-strings](https://github.com/VinayReddy3003/LeetCode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/VinayReddy3003/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VinayReddy3003/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/VinayReddy3003/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/VinayReddy3003/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VinayReddy3003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VinayReddy3003/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
